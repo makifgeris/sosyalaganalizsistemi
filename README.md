@@ -2,7 +2,7 @@
 
 Bu proje, bir sosyal ağ grafiği üzerinde çeşitli analizler gerçekleştiren bir C programıdır. Kullanıcılar Red-Black Tree (kırmızı-siyah ağaç) yapısında tutulur ve kullanıcılar arasında arkadaşlık ilişkileri bir grafik yapısı olarak modellenir.
 
-## 🔧 Özellikler
+##  Özellikler
 
 - 🔴 Red-Black Tree ile kullanıcıların verimli bir şekilde saklanması
 - 👥 Arkadaşlık ilişkileri ile sosyal ağ grafiği oluşturma
@@ -11,7 +11,7 @@ Bu proje, bir sosyal ağ grafiği üzerinde çeşitli analizler gerçekleştiren
 - 🌐 Topluluk tespiti (bağlı bileşen analizi)
 - 💾 `veriseti.txt` dosyasına kullanıcı ve arkadaşlık ilişkilerinin yazımı
 
-## 🚀 Program Akışı
+##  Program Akışı
 
 1. **Kullanıcı Ekleme:** Kullanıcılar Red-Black Tree yapısına eklenir.
 2. **Arkadaşlık Tanımı:** Her kullanıcı için arkadaşları listelenir.
